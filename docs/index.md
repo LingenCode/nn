@@ -54,8 +54,6 @@ title: 主页
 
 [__强化学习工作空间__](rl_workspace.md)
 
-- [__CARLA自动驾驶系统__](carla_ad_gym_rl/carla_ad_gym_rl.md) - CARLA 仿真与强化学习的自动驾驶智能决策系统
-
 ---
 ## 感知 <span id="perception"></span>
 
@@ -101,6 +99,8 @@ title: 主页
 [__carla_2d_deeprl__](./carla_2d_deeprl/README.md) - 基于 CARLA 的极简 2D 深度强化学习自动驾驶环境。
 
 [__PilotNet自动驾驶系统__](./pilotnet/index.md) - 基于NVIDIA PilotNet架构的端到端自动驾驶学习系统
+
+[__CARLA自动驾驶系统__](carla_ad_gym_rl/carla_ad_gym_rl.md) - CARLA 仿真与强化学习的自动驾驶智能决策系统
 
 ## 控制  <span id="control"></span>
 
