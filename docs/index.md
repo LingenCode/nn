@@ -54,6 +54,8 @@ title: 主页
 
 [__强化学习工作空间__](rl_workspace.md)
 
+- [__CARLA自动驾驶系统__](carla_ad_gym_rl/carla_ad_gym_rl.md) - CARLA 仿真与强化学习的自动驾驶智能决策系统
+
 ---
 ## 感知 <span id="perception"></span>
 
